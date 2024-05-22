@@ -1,15 +1,17 @@
 
-## Sobre mim
+<h1 align="center">Sobre mim</h1>
+<section align="center">
+Olá pessoal sou Leonardo Santos Camporesi sou desenvolvedor junior Front-End.<br>
+Formado em Projetos Mêcanicos pela FATEC-SP e Análise e Desenvolvimento de Sistemas pela UNIP.<br>
+Apaixonado por jogos e por programação sempre estou em busca do meu melhor resultado seja no que for.<br>
+Focado em projetos Front-End Vanilla(HTML,CSS,JS) e React.<br><br>
+</section>
+<div align="center">
+<a align="center" href="https://github.com/leoinstorm" title="Perfil Leonardo">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leoinstorm&theme=dark&mode=weekly&locale=pt-br" /><br><br>
 
-Olá pessoal sou Leonardo Santos Camporesi sou desenvolvedor junior Front-End.
-Formado em Projetos Mêcanicos pela FATEC-SP e Análise e Desenvolvimento de Sistemas pela UNIP.
-Apaixonado por jogos e por programação sempre estou em busca do meu melhor resultado seja no que for.
-
-<br/>
-
-<a href="https://github.com/leoinstorm" title="Perfil Leonardo">
-  <img height="180em" src="" />
 </a>
+</div>
 
 ## Habilidades
 
@@ -21,6 +23,7 @@ Apaixonado por jogos e por programação sempre estou em busca do meu melhor res
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+<img min-width="400px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoinstorm&layout=donut&theme=dark&locale=pt-br" />
 
 
 **DevOps**
@@ -36,7 +39,6 @@ Apaixonado por jogos e por programação sempre estou em busca do meu melhor res
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 
 
 
