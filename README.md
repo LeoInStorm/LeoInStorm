@@ -51,11 +51,9 @@ Focado em projetos Front-End Vanilla(HTML,CSS,JS) e React.<br><br>
 
 </div>
 
-<br><br><br><br>
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/-LeonardoCamporesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-camporesi/)](https://www.linkedin.com/in/leonardo-camporesi/)
-[![Gmail Badge](https://img.shields.io/badge/-leo.camporesi@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.camporesi@hotmail.com)](mailto:leo.camporesi@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-camporesi/)](https://www.linkedin.com/in/leonardo-camporesi/)
 
 
