@@ -53,7 +53,7 @@ Focado em projetos Front-End Vanilla(HTML,CSS,JS) e React.<br><br>
 
 <br><br><br><br>
 
-## Onde me encontrar
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-LeonardoCamporesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-camporesi/)](https://www.linkedin.com/in/leonardo-camporesi/)
 [![Gmail Badge](https://img.shields.io/badge/-leo.camporesi@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.camporesi@hotmail.com)](mailto:leo.camporesi@hotmail.com)
