@@ -1,9 +1,9 @@
 <section align="center">
 <h1>Sobre mim</h1>
-Olá pessoal sou Leonardo Santos Camporesi sou desenvolvedor junior Front-End.<br>
+Olá pessoal sou Leonardo Santos Camporesi sou desenvolvedor Front-End e Mobile.<br>
 Formado em Projetos Mêcanicos pela FATEC-SP e Análise e Desenvolvimento de Sistemas pela UNIP.<br>
 Apaixonado por jogos e por programação sempre estou em busca do meu melhor resultado seja no que for.<br>
-Focado em projetos Front-End Vanilla(HTML,CSS,JS) e React.<br><br>
+Focado em projetos Front-End e Mobile.<br><br>
 </section>
 <div align="center">
 <a align="center" href="https://github.com/leoinstorm" title="Perfil Leonardo">
@@ -23,7 +23,8 @@ Focado em projetos Front-End Vanilla(HTML,CSS,JS) e React.<br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img min-width="400px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoinstorm&layout=donut&theme=dark&locale=pt-br" />
