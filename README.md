@@ -1,9 +1,15 @@
 <section align="center">
 <h1>Sobre mim</h1>
-Olá pessoal sou Leonardo Santos Camporesi sou desenvolvedor Front-End e Mobile.<br>
-Formado em Projetos Mêcanicos pela FATEC-SP e Análise e Desenvolvimento de Sistemas pela UNIP.<br>
-Apaixonado por jogos e por programação sempre estou em busca do meu melhor resultado seja no que for.<br>
-Focado em projetos Front-End e Mobile.<br><br>
+Busco novas oportunidades como desenvolvedor Front-end e Mobile.
+
+Possuo inglês avançado e experiência prática em áreas como:
+Gestão de mudanças
+Mapeamento de infraestrutura, integração e sistemas
+Virtualização de APIs
+Implantação de novos softwares
+Desenvolvimento Web
+Desenvolvimento Mobile
+
 </section>
 <div align="center">
 <a align="center" href="https://github.com/leoinstorm" title="Perfil Leonardo">
